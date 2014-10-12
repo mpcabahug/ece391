@@ -1,4 +1,5 @@
 ece391
 ======
 
-Repo for ECE 391 MP3 
+Repo for my group's MP3
+Meow cats - Pollo 13
